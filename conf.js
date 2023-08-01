@@ -21,9 +21,9 @@ jsproxy_config({
       }
     },
     'demo-sg': {
-      label: '演示服务-新加坡节点',
+      label: 'kor',
       lines: {
-        'node-aliyun-sg.etherdream.com:8443': 1,
+        '3.34.62.141:57552': 1,
       },
     },
     'mysite': {
